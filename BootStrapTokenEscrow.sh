@@ -1,6 +1,6 @@
 #!/bin/bash
 #!/usr/bin/expect
-
+# bootstrap secure token in jamf, using jamf variables and expct statements
 
 cuser=$4
 cpw=$5
